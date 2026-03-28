@@ -1,0 +1,11 @@
+{
+  "name": "vps-ops",
+  "version": "1.0.0",
+  "description": "VPS server operations for Ubuntu. Nginx log analysis, PM2 service monitoring, backup verification, and server health checks — all from natural language. No SSH terminal required.",
+  "author": {
+    "name": "Artur Ferreira",
+    "url": "https://thegeolab.net"
+  },
+  "homepage": "https://github.com/arturseo-geo/vps-ops-plugin",
+  "license": "MIT"
+}

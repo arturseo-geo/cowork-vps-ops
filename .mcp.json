@@ -1,0 +1,14 @@
+{
+  "~~filesystem": {
+    "description": "Local filesystem — read Nginx logs, config files, backup directories, PM2 logs",
+    "exampleServers": ["filesystem-mcp"]
+  },
+  "~~wordpress": {
+    "description": "WordPress REST API — health check, cache clear, post counts",
+    "exampleServers": ["wordpress-mcp"]
+  },
+  "~~knowledge_base": {
+    "description": "Notion — incident log, maintenance notes, service health history",
+    "exampleServers": ["notion-mcp"]
+  }
+}
